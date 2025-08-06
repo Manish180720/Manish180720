@@ -73,7 +73,7 @@
 - ✅ GATE 2024 (**Data Science & AI**) — **Qualified**  
 - ✅ GATE 2025 (**Computer Science**) — **Qualified**  
 - ♟️ District-level **Chess Champion (2015)**  
-- 📈 300+ DSA problems solved on LeetCode
+- 📈 700+ DSA problems solved on LeetCode
 
 ---
 
