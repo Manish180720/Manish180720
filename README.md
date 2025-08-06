@@ -1,70 +1,97 @@
 <h1 align="center">Hi 👋, I'm Manish Vardhan</h1>
-<h3 align="center">Software Developer | Problem Solver | DSA Enthusiast</h3>
+
+<p align="center">
+  <a href="https://github.com/Manish180720">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4FFFEA&center=true&vCenter=true&width=435&lines=Software+Developer;Problem+Solver;Full+Stack+Developer;Open+Source+Enthusiast;DSA+%7C+C%2B%2B+%7C+React+%7C+ML" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/manish-vardhan-785480224/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="mailto:manish24052@iiitd.ac.in">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" alt="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://leetcode.com/u/manishvardhan/">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" alt="LeetCode">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=flat-square&logo=LeetCode" alt="LeetCode">
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 💫 About Me
 
-- 💡 I'm a **Software Developer** with a focus on full-stack development, system-level programming, and algorithmic problem-solving.
-- 🎓 Currently pursuing **M.Tech** at *IIIT Delhi* and previously completed **MCA** from *MNNIT Allahabad*.
-- 🧠 I enjoy building backend systems, solving complex DSA problems, and experimenting with ML models.
-- 🧩 Strong foundation in **C++, Python, JavaScript**, and proficiency in **Linux, Git, MongoDB, React, Express**, and more.
-- 🌐 [My Resume (PDF)](https://github.com/Manish180720/Manish180720/raw/main/ManishVardhanResumeS.pdf)
-
----
-
-## 💼 Experience
-
-**🔬 Research Intern — FoodoScope**  
-*Dec 2024 – June 2025*  
-- Contributed to building **DietRx APIs** for structured nutritional data.
-- Maintained backend systems powering the **FoodoScope** health platform.
+- 🎓 M.Tech Student at **IIIT Delhi**, previously at **MNNIT Allahabad (MCA)**
+- 💡 Passionate about **Backend Development**, **DSA**, and **System Programming**
+- 🤖 Exploring **Machine Learning**, **Image Processing**, and **GenAI**
+- 🧠 Problem-solving mindset with 300+ DSA problems solved on LeetCode
+- 🌱 Currently building real-world projects & open to collaboration
 
 ---
 
-## 🛠️ Technical Skills
+## 🚀 Tech Stack
 
-**Languages:**  
-`C++` | `Python` | `JavaScript` | `SQL`
-
-**Frameworks & Tools:**  
-`React.js` | `Node.js` | `Express.js` | `MongoDB` | `Git` | `Linux` | `REST APIs`
-
-**Specialties:**  
-- Object-Oriented Programming (OOP)  
-- Data Structures & Algorithms (DSA)  
-- System Programming  
-- Image Processing
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,mongodb,git,linux,vscode,express,mysql" />
+</p>
 
 ---
 
-## 📈 Achievements
+## 📈 GitHub Stats
 
-- ✅ **GATE 2024 (Data Science & AI)** – Qualified  
-- ✅ **GATE 2025 (Computer Science)** – Qualified  
-- ♟️ **District Chess Champion (2015)** – Strategic and analytical mindset  
-- 📊 Solved 300+ DSA problems on [LeetCode](https://leetcode.com/u/manishvardhan/)
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Manish180720&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=Manish180720&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<!-- Contribution Graph -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Manish180720&theme=tokyonight&row=1&no-frame=true&margin-w=15" />
+</p
 
 ---
 
-## 📫 Connect with Me
+## 🛠 Featured Projects
 
-- 📧 **Email:** [manish24052@iiitd.ac.in](mailto:manish24052@iiitd.ac.in)  
-- 💼 **LinkedIn:** [linkedin.com/in/manish-vardhan-785480224](https://www.linkedin.com/in/manish-vardhan-785480224/)  
-- 🧠 **LeetCode:** [leetcode.com/u/manishvardhan](https://leetcode.com/u/manishvardhan/)
+### 📝 Blog App
+> Full-stack web application built with React, Express, MongoDB. Includes secure JWT-based authentication and CRUD features.
+
+### 💻 C++ Custom OOP Library
+> A freestanding environment library with NASM-based low-level system features. No standard headers used.
+
+### 🖼️ Image Super-Resolution
+> Patch-based sparse representation algorithm to enhance image quality using trained high-res dictionaries.
 
 ---
 
-<p align="center">✨ Always open to collaboration, learning, and building impactful tech ✨</p>
+## 🏆 Achievements
+
+- ✅ GATE 2024 (**Data Science & AI**) — **Qualified**  
+- ✅ GATE 2025 (**Computer Science**) — **Qualified**  
+- ♟️ District-level **Chess Champion (2015)**  
+- 📈 300+ DSA problems solved on LeetCode
+
+---
+
+## 📫 Let's Connect!
+
+- 📧 Email: [manish24052@iiitd.ac.in](mailto:manish24052@iiitd.ac.in)  
+- 💼 LinkedIn: [Manish Vardhan](https://www.linkedin.com/in/manish-vardhan-785480224/)  
+- 🧠 LeetCode: [manishvardhan](https://leetcode.com/u/manishvardhan/)
+
+---
+
+## 🧠 Fun Fact
+> I use **chess** strategies to debug code and write efficient algorithms 🎯
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="200" />
+</p>
+
+<p align="center"><i>“Strive for progress, not perfection.”</i></p>
