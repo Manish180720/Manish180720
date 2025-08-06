@@ -1,8 +1,11 @@
-<h1 align="center">Hi 👋, I'm Manish Vardhan</h1>
+<!-- Gradient Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0abde3&height=200&section=header&text=Hi%20👋%20I'm%20Manish%20Vardhan&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 <p align="center">
   <a href="https://github.com/Manish180720">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4FFFEA&center=true&vCenter=true&width=435&lines=Software+Developer;Problem+Solver;Full+Stack+Developer;Open+Source+Enthusiast;DSA+%7C+C%2B%2B+%7C+React+%7C+ML" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=64F4EE&center=true&vCenter=true&width=435&lines=Software+Developer;Problem+Solver;Full+Stack+Developer;Open+Source+Enthusiast;DSA+%7C+C%2B%2B+%7C+React+%7C+ML" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,17 +23,17 @@
 
 ---
 
-## 💫 About Me
+## 🌟 About Me
 
-- 🎓 M.Tech Student at **IIIT Delhi**, previously at **MNNIT Allahabad (MCA)**
+- 🎓 M.Tech Student at **IIIT Delhi**, MCA from **MNNIT Allahabad**
 - 💡 Passionate about **Backend Development**, **DSA**, and **System Programming**
 - 🤖 Exploring **Machine Learning**, **Image Processing**, and **GenAI**
-- 🧠 Problem-solving mindset with 700+ DSA problems solved on LeetCode
-- 🌱 Currently building real-world projects & open to collaboration
+- 🧠 Solved **700+ DSA problems** on LeetCode
+- 🌱 Always learning, building, and open to collaboration
 
 ---
 
-## 🚀 Tech Stack
+## ⚙️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,mongodb,git,linux,vscode,express,mysql" />
@@ -38,60 +41,69 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Manish180720&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  
-  <!-- GitHub Streak Stats -->
   <img src="https://streak-stats.demolab.com/?user=Manish180720&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-<!-- Contribution Graph -->
+---
+
+## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Manish180720&theme=tokyonight&row=1&no-frame=true&margin-w=15" />
-</p
+  <img src="https://github-profile-trophy.vercel.app/?username=Manish180720&theme=tokyonight&margin-w=15&no-frame=true&row=1" />
+</p>
 
 ---
 
-## 🛠 Featured Projects
+## 🚀 Featured Projects
 
 ### 📝 Blog App
-> Full-stack web application built with React, Express, MongoDB. Includes secure JWT-based authentication and CRUD features.
+> Full-stack web application built with **React, Express, MongoDB**. Includes secure JWT-based authentication and CRUD features.
 
 ### 💻 C++ Custom OOP Library
-> A freestanding environment library with NASM-based low-level system features. No standard headers used.
+> A freestanding environment library with **NASM-based low-level system features**. Built from scratch — no standard headers.
 
 ### 🖼️ Image Super-Resolution
-> Patch-based sparse representation algorithm to enhance image quality using trained high-res dictionaries.
+> Patch-based **sparse representation** algorithm to enhance image quality using high-res dictionaries.
 
 ---
 
-## 🏆 Achievements
+## 🥇 Achievements
 
-- ✅ GATE 2024 (**Data Science & AI**) — **Qualified**  
-- ✅ GATE 2025 (**Computer Science**) — **Qualified**  
-- ♟️ District-level **Chess Champion (2015)**  
-- 📈 700+ DSA problems solved on LeetCode
+- 🎯 Qualified **GATE 2024 (Data Science & AI)**  
+- 🎯 Qualified **GATE 2025 (Computer Science)**  
+- ♟️ **District-level Chess Champion (2015)**  
+- 🧠 Solved **700+ LeetCode DSA problems**
 
 ---
 
-## 📫 Let's Connect!
+## 🤝 Let's Connect!
 
-- 📧 Email: [manish24052@iiitd.ac.in](mailto:manish24052@iiitd.ac.in)  
-- 💼 LinkedIn: [Manish Vardhan](https://www.linkedin.com/in/manish-vardhan-785480224/)  
-- 🧠 LeetCode: [manishvardhan](https://leetcode.com/u/manishvardhan/)
+- 📧 **Primary Email**: [manishvardhan477@gmail.com](mailto:manishvardhan477@gmail.com)  
+- 📧 **Academic Email**: [manish24052@iiitd.ac.in](mailto:manish24052@iiitd.ac.in)  
+- 💼 **LinkedIn**: [Manish Vardhan](https://www.linkedin.com/in/manish-vardhan-785480224/)  
+- 🧠 **LeetCode**: [manishvardhan](https://leetcode.com/u/manishvardhan/)
 
 ---
 
 ## 🧠 Fun Fact
+
 > I use **chess** strategies to debug code and write efficient algorithms 🎯
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
-<p align="center"><i>“Strive for progress, not perfection.”</i></p>
+<p align="center">
+  <i>“Strive for progress, not perfection.”</i>
+</p>
+
+<!-- End with Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0abde3&height=120&section=footer" />
+</p>
