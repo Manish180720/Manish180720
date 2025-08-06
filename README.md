@@ -50,19 +50,6 @@
 
 ---
 
-## 🚀 Projects
-
-### 🔹 Blog App
-> A full-stack blogging platform built using **React, Express, and MongoDB**, secured with **JWT authentication** for role-based access.
-
-### 🔹 OOPD Custom C++ Library
-> A custom **C++ standard-free library** with low-level memory and I/O handling using **NASM** for Linux environments.
-
-### 🔹 Image Super Resolution
-> Developed an image upscaling algorithm using **sparse representation** and **patch-based reconstruction** to enhance low-res images.
-
----
-
 ## 📈 Achievements
 
 - ✅ **GATE 2024 (Data Science & AI)** – Qualified  
