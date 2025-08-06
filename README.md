@@ -25,7 +25,7 @@
 - 🎓 M.Tech Student at **IIIT Delhi**, previously at **MNNIT Allahabad (MCA)**
 - 💡 Passionate about **Backend Development**, **DSA**, and **System Programming**
 - 🤖 Exploring **Machine Learning**, **Image Processing**, and **GenAI**
-- 🧠 Problem-solving mindset with 300+ DSA problems solved on LeetCode
+- 🧠 Problem-solving mindset with 700+ DSA problems solved on LeetCode
 - 🌱 Currently building real-world projects & open to collaboration
 
 ---
